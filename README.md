@@ -1,3 +1,2 @@
-# RepasoCSharp (It's not finished yet!!!)
+# RepasoCSharp
 Exercises to practise foreach loops, lists, datetime and data access.
-btw: I'll finish it this weekend.
